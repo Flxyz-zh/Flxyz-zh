@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Adventure Time Banner">
-</p>
-
 <div align="center">
   <img src="./banner.png" alt="Adventure Time banner" width="100%">
 </div>
