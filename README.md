@@ -25,7 +25,7 @@ Continuously learning, experimenting, and developing my skills in Cyber Security
 ### 📫 Connect With Me
 - GitHub: [@Flxyz-zh](https://github.com/Flxyz-zh)
 
-*"Keep Learning, Keep Exploring, Keep Securing."*
+*"High Risk High Reward"*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dadarssz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dadarr__r)
@@ -36,7 +36,7 @@ Continuously learning, experimenting, and developing my skills in Cyber Security
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Flxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Flxyz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Flxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Flxyz&icon=0&color=0)](https://visitcount.itsvg.in)
